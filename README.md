@@ -1,7 +1,7 @@
 # Documentation
 
 ## Overview
-This repository contains research reports on two tensile machines, along with an in-depth Technical Advisory Committee (TAC) Report. These documents serve as exemplars of the professional and thorough documentation I have undertaken
+This repository contains research reports on two tensile machines, along with an in-depth Technical Advisory Committee (TAC) Report. These documents serve as exemplars of the professional and thorough documentation I have undertaken.
 
 
 ## Reports 
@@ -9,30 +9,24 @@ This repository contains research reports on two tensile machines, along with an
 ### Tensile Machine Research Reports
 
 **Description** 
-The Tensile Machines Research report was initiated after the DigitMakers CEO inquired about the feasibility of creating an inexpensive tensile measuring device for 3D printed specimens. The purpose of these documents is to provide a brief analysis of the tensile machines' capabilities, applications, pricing, and technical considerations.
+The Tensile Machines Research report was initiated after the DigitMakers CEO inquired about the feasibility of creating an inexpensive tensile measuring device for 3D printed specimens. The purpose of these documents is to provide a brief analysis of the tensile machines capabilities, applications, pricing, and technical considerations.
 
-- **Report 1: [Title of the First Tensile Machine Report]**
-  - Description: A brief description of what this report covers.
+- **Report 1: Electric Tensile Machine**
   - Contents: Key topics and sections included in this report.
-  - Author(s): Name of the individual(s) who prepared the report.
-  - Date: When the report was last updated or published.
+  - Date: November 2023.
 
-- **Report 2: [Title of the Second Tensile Machine Report]**
-  - Description: A brief description of what this report covers.
+- **Report 2: Mechanical Tensile Machine**
   - Contents: Key topics and sections included in this report.
-  - Author(s): Name of the individual(s) who prepared the report.
-  - Date: When the report was last updated or published.
+  - Date: November 2023.
 
 
 ### Technical Advisory Committee (TAC) Report
 
 **Description**
-The Detailed Technical Advisory Committee (TAC) Report, crafted by a development team, is specifically tailored for the EXPLOREBOOKING website. This comprehensive report encompasses a thorough analysis of all facets of the final product, including User Stories, strategic recommendations, a release plan, testing protocols, and more.
+Detailed TAC Report, crafted by a development team, is specifically tailored for the EXPLOREBOOKING website. This comprehensive report encompasses a thorough analysis of all facets of the final product, including User Stories, recommendations, a release plan, testing, and more.
 
-- **TAC Report: [Title of the TAC Report]**
-  - Description: An overview of the scope and purpose of the TAC report.
+- **TAC Report: ExploreBooking: A Web Application for Travel**
   - Insights: A summary of the key insights and recommendations provided by the TAC.
-  - Author(s): Name of the committee or individuals who prepared the report.
   - Date: When the report was last updated or published.
     
 
