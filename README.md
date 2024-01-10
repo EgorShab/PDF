@@ -1,6 +1,6 @@
 # Documentation
 
-## Overview
+### Overview
 This repository contains research reports on two tensile machines, along with an in-depth Technical Advisory Committee (TAC) Report. These documents serve as exemplars of the professional and thorough documentation I have undertaken.
 
 
