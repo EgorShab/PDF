@@ -35,7 +35,7 @@ The Tensile Machines Research report was initiated after the DigitMakers CEO inq
 ### Technical Advisory Committee (TAC) Report
 
 **Description:**
-The Detailed TAC Report, crafted by an Agile development team, is specifically tailored for the EXPLOREBOOKING, which allows users to share and discover unique travel spots known to locals. This comprehensive report encompasses a thorough analysis of all aspects of the final product.
+The Detailed TAC Report, crafted by an Agile development team, is specifically tailored for the [ExploreBooking](https://github.com/EgorShab/software/tree/main/ExploreBooking "ExploreBooking repository"), which allows users to share and discover unique travel spots known to locals. This comprehensive report encompasses a thorough analysis of all aspects of the final product.
 
 - **TAC Report: ExploreBooking - A Web Application for Travel**
   - **Contents:** 
